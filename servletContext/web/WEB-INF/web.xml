@@ -29,8 +29,9 @@
         <servlet-class>com.yj.S2</servlet-class>
         <init-param>
             <param-name>brand</param-name>
-            <param-value>Apple</param-value>
+            <param-value>VIVO</param-value>
         </init-param>
+
     </servlet>
     <servlet-mapping>
         <servlet-name>s2</servlet-name>
